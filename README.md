@@ -1,6 +1,6 @@
 # 棍语言转换器 (Gun Language Converter)
 
-![版本](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![版本](https://img.shields.io/badge/version-0.0.1-blue.svg)
 ![Python版本](https://img.shields.io/badge/python-3.6%2B-blue)
 ![许可证](https://img.shields.io/badge/license-MIT-green.svg)
 
